@@ -17,7 +17,7 @@ One common problem statement involved developing a line-following algorithm.
 
 A demonstration of the final implementation is shown below. Click the image to view the full video.
 
-[![Minidrone Demo](media/final.gif)](media/final.mp4)
+[![Minidrone Demo](media/final.mp4)](media/final.mp4)
 
 
 
