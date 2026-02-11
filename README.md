@@ -15,11 +15,10 @@ One common problem statement involved developing a line-following algorithm.
 5.  [Further Information](#further-information)
 
 
-A demonstration of the final implementation is shown below.
+A demonstration of the final implementation is shown on this link: 
+[Video](https://drive.google.com/file/d/1N2SCrr5Gs8leVk12S3ixSO8crLlJe_nP/view?usp=drive_link)
 
-<video src="https://github.com/lakhmanisahil/MATLAB_Minidrone_Competition/blob/main/media/final.mp4" controls title="A brief demonstration of the project">
-  Your browser does not support the video tag.
-</video>
+
 
 ## How to Use This Repository with MATLAB
 
